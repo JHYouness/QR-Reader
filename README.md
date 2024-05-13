@@ -20,7 +20,7 @@
       <img src="https://github.com/JHYouness/QR-Reader/blob/main/Imagenes/mapas.png" width="250" height="550">
     </p>
   - Floating Button
-      - Para relizar el escaneo QR, al realizar el escaneo se habre la aplicacion definida, segun si es una ublicacion (aplicación mapa del sistema) o si es una pagina web (navegador por defecto)
+      - Al realizar el escaneo se habre la aplicacion definida, segun si es una ublicacion (aplicación mapa del sistema) o si es una pagina web (navegador por defecto)
     <p align="center">
       <img src="https://github.com/JHYouness/QR-Reader/blob/main/Imagenes/camara.png" width="250" height="550">
     </p>
