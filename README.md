@@ -1,6 +1,6 @@
 <h1 align="center">QR Reader</h1>
 <h2>Acerca del proyecto</h2>
-<p>Con QR Reader podras escanear y guardar codigos QR, tanto si son para ublicaciones basadas en la latitud/longitud como si son paginas web. Para el almacenamiento de codigos QR se utliza una base de datos SQLite</p>
+<p>Con QR Reader podras escanear y guardar codigos QR, tanto si son para ubicaciones basadas en la latitud/longitud como si son paginas web. Para el almacenamiento de codigos QR se utliza una base de datos SQLite</p>
 
 <h3>Pantalla</h3>
 <p>La pantalla ha sido creada con un navBar inferior con dos paginas y un floating Button, para eliminar se puede realizar un borrado completo presionando el icono superior o borrando un solo dato (Eliminación unica)</p>
